@@ -1,0 +1,1 @@
+# gornaya_poroda_andesit
