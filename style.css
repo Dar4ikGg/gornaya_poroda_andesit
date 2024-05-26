@@ -15,20 +15,15 @@ p {
 nav {
     display: flex;
     justify-content: flex-end;
-    border-bottom: 1px dashed navy;
+    background-image:linear-gradient(lightblue,white) ;
 }
 
 nav a {
     text-decoration: none;
     font-size: 20px;
-    color: royalblue;
+    color: blueviolet;
     margin: 30px;
     padding: 10px;
-}
-
-nav a:first-child {
-    border: 3px solid royalblue;
-    box-shadow: 2px 2px 5px 0 slateblue;
 }
 
 .container {
